@@ -2,13 +2,8 @@
 
 Assignment for Module 9 --- Version Control
 
-## EUID
-am3287
-## Favorite Professor
-asdf
-## EUID
 
-tmb0350
+## EUID
 tmb0350
 ## Favorite Professor
 Angela Harris
